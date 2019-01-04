@@ -48,12 +48,12 @@ A 12-week intensive development bootcamp focused on best practices and independe
 - Agile, Pair Programming, Test Driven Development
 
 
-#### University of Bristol, UK 2008 - 2012
+#### University of Bristol, UK (2008 - 2012)
 
 - Mechanical Engineering MEng
 - 2:1
 
-#### Rice University, TX, USA 2011
+#### Rice University, TX, USA (2011)
 
 - Mechanical Engineering MEng
 - 2:1 (Year Abroad)
@@ -63,8 +63,8 @@ A 12-week intensive development bootcamp focused on best practices and independe
 
 **Competitive Cyclist**
 
-CAT 2 road racer & ultra-endurance - Transcontinental 2017 finisher
-(An unsupported 4000km race across Europe from Belgium to Greece)
+CAT 2 road racer & ultra-endurance competitor.
+Transcontinental 2017 finisher (An unsupported 4000km race across Europe from Belgium to Greece)
 
 **Cooking & Yoga**
 
