@@ -1,40 +1,40 @@
 ## William Dunk
 
-London, UK / +44 7564 186 579 / williamdunk@gmail.com / LinkedIn: wpdunk
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
-Learning to code. Previously at Beryl, +6 years working with cross functional teams in a dynamic and constantly evolving environment. Looking for an impactful and inspiring new challenge.
+#### London, UK / +44 7564 186 579 / williamdunk@gmail.com / LinkedIn: wpdunk
+
+Learning to code at Makers Academy. Previously at Beryl, +6 years growing the startup from the ground up to become one of London's most exciting urban mobility ventures. Vast project management experience, working with cross functional teams in a dynamic and constantly evolving environment. Looking for an impactful and inspiring new challenge.
 
 ## Skills
 
 #### Problem solving
 
 Leadership in ideation, business strategy and system implementation. Confident at adapting processes within constantly evolving environments to maximise efficiency.
-
-- Experience
-- Achievements
-- Evidence
+**Formation of internal R&D programme:** Taking inspiration from the latest software development techniques used short sprints to investigate new technologies and solutions to product issues; including mapping of user stories and extensive market research.
+**Product failure reduction:** A first victory for the R&D programme was the identification of a new waterproofing gasket design following a string of failures and subsequent rollout of this modification to significantly reduce failure rate of the product by almost 50%.
 
 #### Project Management
 
 Experienced in agile methodologies and delivering to tight deadlines. Strong communication skills, well versed at acting as the bridge between technical teams and management / customers.
+**Successful launch on Kickstarter:** Straight off the mark, delivered to an extremely punchy schedule, the launch of the Laserlight, Beryl’s first consumer product. Raising £55k in 30 days as one of first UK Kickstarter campaigns. Included rapid formation of the brand, the very important pitch video and the critical generation of proof of concept prototypes.
+**Initial set up of supply chain:** Built the initial relationships with designers, manufacturers and logistic services. Acted as a key link between the founders and wider team/customers. Enabling the rollout of laserlight technology across all 12,000 Santander Cycles in London, a significant milestone for the company.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Projects
+
+- Code projects from my time at Makers Academy
+
+| Project | Description | Timeframe | Technologies | Testing |
+| WattsYourFTP | A TDD bike data web app. (Probably) | 2 days | Ruby | RSpec |
+| Project 2 | tbc | tbc | tbc | tbc |
+
 
 ## Education
 
-<!-- #### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan 2019 to Mar 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
+A 12-week intensive development bootcamp focused on best practices and independent learning.
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
+- Agile, Pair Programming, Test Driven Development
+
 
 #### University of Bristol, UK 2008 - 2012
 
@@ -51,10 +51,11 @@ Experienced in agile methodologies and delivering to tight deadlines. Strong com
 **Beryl** (Oct 2012 - Dec 2018)    
 *Special Projects*
 
-##INTERESTS
+## INTERESTS
 
 **Competitive Cyclist**
 CAT 2 road racer & ultra-endurance - Transcontinental 2017 finisher
 (An unsupported 4000km race across Europe from Belgium to Greece)
 
 **Cooking & Yoga**
+Love food, hate stretching! But it is good for you :)
