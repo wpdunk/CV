@@ -11,18 +11,22 @@ Learning to code at Makers Academy. Previously at Beryl, +6 years growing the st
 #### Problem solving
 
 Leadership in ideation, business strategy and system implementation. Confident at adapting processes within constantly evolving environments to maximise efficiency.
+
 **Formation of internal R&D programme:** Taking inspiration from the latest software development techniques used short sprints to investigate new technologies and solutions to product issues; including mapping of user stories and extensive market research.
+
 **Product failure reduction:** A first victory for the R&D programme was the identification of a new waterproofing gasket design following a string of failures and subsequent rollout of this modification to significantly reduce failure rate of the product by almost 50%.
 
 #### Project Management
 
 Experienced in agile methodologies and delivering to tight deadlines. Strong communication skills, well versed at acting as the bridge between technical teams and management / customers.
+
 **Successful launch on Kickstarter:** Straight off the mark, delivered to an extremely punchy schedule, the launch of the Laserlight, Beryl’s first consumer product. Raising £55k in 30 days as one of first UK Kickstarter campaigns. Included rapid formation of the brand, the very important pitch video and the critical generation of proof of concept prototypes.
+
 **Initial set up of supply chain:** Built the initial relationships with designers, manufacturers and logistic services. Acted as a key link between the founders and wider team/customers. Enabling the rollout of laserlight technology across all 12,000 Santander Cycles in London, a significant milestone for the company.
 
 ## Projects
 
-- Code projects from my time at Makers Academy
+Code projects from my time at Makers Academy
 
 | Project | Description | Timeframe | Technologies | Testing |
 | --- | --- | --- | --- | --- |
@@ -33,6 +37,7 @@ Experienced in agile methodologies and delivering to tight deadlines. Strong com
 
 **Beryl** (Oct 2012 - Dec 2018)    
 *Special Projects*
+Joined the urban mobility company at the earliest stage alongside the Founder. Played a direct role in enabling the growth of the business to one of the UK’s leading hardware and technology startups within one of the most active industry sectors.
 
 ## Education
 
@@ -57,8 +62,10 @@ A 12-week intensive development bootcamp focused on best practices and independe
 ## Interests
 
 **Competitive Cyclist**
+
 CAT 2 road racer & ultra-endurance - Transcontinental 2017 finisher
 (An unsupported 4000km race across Europe from Belgium to Greece)
 
 **Cooking & Yoga**
+
 Love food, hate stretching! But it is good for you :)
