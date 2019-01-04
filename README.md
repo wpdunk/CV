@@ -64,6 +64,7 @@ A 12-week intensive development bootcamp focused on best practices and independe
 **Competitive Cyclist**
 
 CAT 2 road racer & ultra-endurance competitor.
+
 Transcontinental 2017 finisher (An unsupported 4000km race across Europe from Belgium to Greece)
 
 **Cooking & Yoga**
