@@ -8,7 +8,7 @@ Learning to code at Makers Academy. Previously at Beryl, +6 years growing the st
 
 ## Skills
 
-#### Problem solving
+### Problem solving
 
 Leadership in ideation, business strategy and system implementation. Confident at adapting processes within constantly evolving environments to maximise efficiency.
 
@@ -16,7 +16,7 @@ Leadership in ideation, business strategy and system implementation. Confident a
 
 **Product failure reduction:** A first victory for the R&D programme was the identification of a new waterproofing gasket design following a string of failures and subsequent rollout of this modification to significantly reduce failure rate of the product by almost 50%.
 
-#### Project Management
+### Project Management
 
 Experienced in agile methodologies and delivering to tight deadlines. Strong communication skills, well versed at acting as the bridge between technical teams and management / customers.
 
