@@ -1,6 +1,8 @@
 ## William Dunk
 
-#### London, UK / +44 7564 186 579 / williamdunk@gmail.com / LinkedIn: wpdunk
+#### London, UK / +44 7564 186 579 / williamdunk@gmail.com / [GitHub](https://github.com/wpdunk) / [LinkedIn](https://www.linkedin.com/in/wpdunk/)
+
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 Learning to code at Makers Academy. Previously at Beryl, +6 years growing the startup from the ground up to become one of London's most exciting urban mobility ventures. Vast project management experience, working with cross functional teams in a dynamic and constantly evolving environment. Looking for an impactful and inspiring new challenge.
 
@@ -23,9 +25,14 @@ Experienced in agile methodologies and delivering to tight deadlines. Strong com
 - Code projects from my time at Makers Academy
 
 | Project | Description | Timeframe | Technologies | Testing |
+| --- | --- | --- | --- | --- |
 | WattsYourFTP | A TDD bike data web app. (Probably) | 2 days | Ruby | RSpec |
 | Project 2 | tbc | tbc | tbc | tbc |
 
+## Experience
+
+**Beryl** (Oct 2012 - Dec 2018)    
+*Special Projects*
 
 ## Education
 
@@ -46,12 +53,8 @@ A 12-week intensive development bootcamp focused on best practices and independe
 - Mechanical Engineering MEng
 - 2:1 (Year Abroad)
 
-## Experience
 
-**Beryl** (Oct 2012 - Dec 2018)    
-*Special Projects*
-
-## INTERESTS
+## Interests
 
 **Competitive Cyclist**
 CAT 2 road racer & ultra-endurance - Transcontinental 2017 finisher
