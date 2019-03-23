@@ -8,6 +8,10 @@ Learning to code at Makers Academy. Previously at Beryl, +6 years growing the st
 
 ## Skills
 
+### Software Development
+
+Well versed in best practices such as test driven development and pair programming. Already an advocate for writing clean code that is easy to change, the efficiencies this unlocks is extremely satisfying! Improving knowledge of Ruby, JavaScript and the MERN stack, have enjoyed experimenting with APIs and the opportunities they enable for stitching resources together.
+
 ### Problem solving
 
 Leadership in ideation, business strategy and system implementation. Confident at adapting processes within constantly evolving environments to maximise efficiency.
